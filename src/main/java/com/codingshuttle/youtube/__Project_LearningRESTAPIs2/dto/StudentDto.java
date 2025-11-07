@@ -10,7 +10,7 @@ import lombok.*;
 public class StudentDto {
     private Long id;
     private String name;
-//    private String email;
+    private String email;
 
 //    public StudentDto(Long id, String name) {
 //        this.id = id;
